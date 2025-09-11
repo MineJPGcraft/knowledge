@@ -320,4 +320,5 @@
 *   **版本**: 互通
 *   **描述**: 1.21.8互通服 离线可进 粘液科技 语音聊天 公会 领地 欢迎新玩家加入
 *   **加入链接**: https://qm.qq.com/q/YcVqH0waMk
-*   **IP**: https://qm.qq.com/q/YcVqH0waMk
+*   **IP**: shamizo.top
+
