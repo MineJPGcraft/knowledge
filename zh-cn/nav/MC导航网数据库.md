@@ -1,4 +1,4 @@
-# MC导航网知识库
+# MC导航网数据库
 
 ## MC官方网站
 *   [Minecraft官网](https://www.minecraft.net/)
