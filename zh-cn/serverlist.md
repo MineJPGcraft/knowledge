@@ -284,7 +284,7 @@
 *   **类型**: 基岩版
 *   **版本**: 1.21.X
 *   **描述**: 一个开了一年的基岩版空岛服，拥有单方块空岛的玩法，玩家领取一个属于自己的空岛。使用方块刷新包可刷出资源。有等级系统（购买方块包获得经验，提升血量上限），技能系统与boss。
-*   **加入链接**: minecraft://?addExternalServer=starry-isles|starry-isles.play-mc.space:54875
+*   **加入链接**: minecraft://?addExternalServer=starry-isles|starry-isles.play-mc.space:20670
 
 ### 42. 青霭Haze
 *   **类型**: 生存
@@ -318,5 +318,6 @@
 *   **描述**: 1.21.8互通服 离线可进 粘液科技 语音聊天 公会 领地 欢迎新玩家加入
 *   **加入链接**: https://qm.qq.com/q/YcVqH0waMk
 *   **IP**: shamizo.top
+
 
 
