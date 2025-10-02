@@ -18,3 +18,4 @@ MCJPG是一个为Minecraft玩家和服主提供优秀交流平台的社区。无
 *   **QQ群组:** [点击加入MCJPG QQ群](https://qm.qq.com/q/bAZle5ABzy)
 *   **Discord:** [点击加入MCJPG Discord](https://discord.gg/bapqCcFDMz)
 *   **Telegram:** [点击加入MCJPG Telegram](https://t.me/mcjpg_guild)
+*   **MCFlare** [点击前往MCFlare社区](https://forum.mcflare.com)
