@@ -10,6 +10,7 @@
 
 ## 非官方论坛
 *   [Minecraft Forum](https://www.minecraftforum.net/) - 国外比较有名的非官方Minecraft论坛
+*   [MCFlare](https://forum.mcflare.com/) - 一个新兴的Minecraft技术交流社区
 *   [MineBBS](https://www.minebbs.com/) - 一个国内的我的世界中文论坛，主营基岩版
 *   [苦力怕论坛](https://klpbbs.com/) - 国内的我的世界中文论坛，主营基岩版
 *   [HiMCBBS](https://www.himcbbs.com/) - 国内的我的世界中文论坛，主营Java版
@@ -65,7 +66,6 @@
 *   [MCMOD服务器列表](https://play.mcmod.cn/) - MCMOD服务器板块
 
 ## 功能性网站
-*   [MCICP](https://www.mcicp.com/) - MC世界的MCICP虚拟备案领航者！
 *   [Chunk Base](https://www.chunkbase.com/) - 种子查询器、区块查询器等工具网站
 *   [MCID](http://mcid.lingningyu.cn/) - 物品ID查询网站
 *   [Minecraft Tools](https://minecraft.tools/) - 提供各种自定义等工具
