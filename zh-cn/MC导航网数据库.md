@@ -13,7 +13,6 @@
 *   [MCFlare](https://forum.mcflare.com/) - 一个新兴的Minecraft技术交流社区
 *   [MineBBS](https://www.minebbs.com/) - 一个国内的我的世界中文论坛，主营基岩版
 *   [苦力怕论坛](https://klpbbs.com/) - 国内的我的世界中文论坛，主营基岩版
-*   [HiMCBBS](https://www.himcbbs.com/) - 国内的我的世界中文论坛，主营Java版
 *   [小僵尸论坛](https://www.zitbbs.com/) - 国内的我的世界中文论坛
 *   [Bangbang93论坛](https://www.bangbang93.com) - 十分著名的下载源国内镜像站——BMCLAPI
 *   [黑曜石论坛](https://mcobs.cn/) - 一个国内新兴的论坛，主营java版
