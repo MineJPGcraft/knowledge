@@ -10,7 +10,7 @@
 
 ## 非官方论坛
 *   [Minecraft Forum](https://www.minecraftforum.net/) - 国外比较有名的非官方Minecraft论坛
-*   [MCFlare](https://forum.mcflare.com/) - 一个新兴的Minecraft技术交流社区
+*   [MCFlare](https://www.mcflare.com/) - 一个新兴的Minecraft技术交流社区
 *   [MineBBS](https://www.minebbs.com/) - 一个国内的我的世界中文论坛，主营基岩版
 *   [苦力怕论坛](https://klpbbs.com/) - 国内的我的世界中文论坛，主营基岩版
 *   [小僵尸论坛](https://www.zitbbs.com/) - 国内的我的世界中文论坛
