@@ -60,6 +60,7 @@
 *   [MSCPO](https://mscpo.top/) - 一个服务器集体宣传组织
 *   [Minecraft Servers](https://minecraftservers.org/) - 国外比较著名的服务器资源网站
 *   [Minecraft Multiplayer](https://minecraft-mp.com/) - 国外比较著名的服务器资源网站
+*   [ServerBuddy](https://serverbuddy.net/) - Java 和基岩版服务器发现平台，提供实时状态、玩家数历史、在线率、MOTD 与版本历史
 *   [我的世界找服网](https://www.mczfw.cn/) - 一个国内的服务器资源网站
 *   [Minecraft服务器列表](https://www.mczfw.cn/) - 一个国内的服务器资源网站
 *   [MCMOD服务器列表](https://play.mcmod.cn/) - MCMOD服务器板块
